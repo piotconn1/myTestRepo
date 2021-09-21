@@ -1,4 +1,3 @@
 # myTestRepo
 update on github.com
-aaa
-bbb
+TEST - modified in cloned repo.
